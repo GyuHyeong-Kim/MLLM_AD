@@ -1,1 +1,1 @@
-# MLLM_AD
+# Multimodal Large Language Models for Anomaly Detection
